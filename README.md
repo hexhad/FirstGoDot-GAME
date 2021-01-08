@@ -1,3 +1,3 @@
-# First GODOT GAME
+# FIRST GODOT GAME
 
 ![](/Img/img.png)
